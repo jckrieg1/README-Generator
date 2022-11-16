@@ -4,6 +4,7 @@
   ## Table of Contents
   * [Project Description](#description)
   * [Usage](#usage)
+  * [Links](#links)
   * [Contributing](#contributing)
   * [Installation](#installation)
   * [Questions](#questions)
@@ -14,6 +15,9 @@
 
   ## Usage
   To use this application, user's must clone this prokect and install Node Package Manger to their local enviornment in order to run the application with the command "node index.js". 
+  
+  ## Links 
+  Walkthrough Video: https://app.castify.com/analyze/67f3ee00-f195-406a-a87d-b084412b31d6
 
   ## Contributing
   n/a
