@@ -49,19 +49,6 @@ const questions = [
 ];
 
 
-// TODO: Create a function to write README file
-// function writeToFile(fileName, data) {
-//     // use fs.writefile to create the markdown 
-//     fs.writeFile(fileName, data, function(err) {
-//         if (err) {
-//             console.error(err);
-//         } else {
-//             console.log('File created successfully!');
-//         }
-//     });
-
-// }
-
 // TODO: Create a function to initialize app
 function init() {
     // ask the user for the data they want to insert into the markdown (inquirer)

@@ -71,12 +71,12 @@ function generateMarkdown(data) {
   ${renderLicenseBadge(data.license)}
 
   ## Table of Contents
-  - [Project Description](#Description)
-  - [Usage](#Usage)
-  - [Contributing](#Contributing)
-  - [Installation](#Installation)
-  - [Questions](#Questions)
-  - [License](#License)
+  * [Project Description](#description)
+  * [Usage](#usage)
+  * [Contributing](#contributing)
+  * [Installation](#installation)
+  * [Questions](#questions)
+  * [License](#license)
 
   ## Description
   ${data.description}
@@ -101,7 +101,7 @@ function generateMarkdown(data) {
 
 }
 
-// generateMarkdown()
+
 
 
 module.exports = generateMarkdown;
